@@ -1,1 +1,21 @@
-<h1 class="ct">請選擇管理功能</h1>
+<fieldset>
+    <legend>
+        帳號管理
+    </legend>
+    <table class="ct">
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+
+
+
+</fieldset>
