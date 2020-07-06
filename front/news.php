@@ -17,6 +17,7 @@
         $start = ($now - 1) * $div;
         $rows = $db->all([], "limit $start,$div");
         $log= new DB('log');
+        
         foreach ($rows as $row) {
         ?>
             <tr >
